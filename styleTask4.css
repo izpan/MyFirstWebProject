@@ -1,0 +1,52 @@
+body {
+background-image:url('img.png');
+background-position:bottom;
+}
+.box {
+background-color:white;
+overflow: hidden;
+padding:20px;
+}
+.header {
+border:gray;
+background-color:grey;
+font-size:15px;
+padding:15px;
+margin:0 0 15 0px;
+background-color:#a8f0ef;
+color:#429b99;
+}
+.topic {
+text-align:right;
+font-size:20px
+}
+.sub-topic {
+text-align:right;
+}
+.col1 {
+float:left;
+background-color:grey;
+margin:0 10px 0 0;
+width:30%;
+padding:30px;
+color:#0f7a7a;
+background-color: #3fe0d0;
+border:2px solid #0d8686;
+}
+.col2 {
+float:right;
+margin:5px;
+width:60%;
+}
+.box1 {
+margin:0 0 5px 0;
+padding:10px;
+background-color:#e8fafa;
+border: 2px solid #c1e8ea;
+}
+.box2 {
+margin:0 0 5px 0;
+padding:10px;
+background-color:#e8fafa;
+border: 2px solid #c1e8ea;
+}
